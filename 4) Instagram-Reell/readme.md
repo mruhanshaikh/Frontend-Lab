@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Reels-Style Video Feed (Vanilla JS) 
-=======
 # Reels-Style Video Feed (Vanilla JS)
 #Live : https://reeel.netlify.app/
 >>>>>>> 66c0201299d3f590f59868b94fdb3fce91d4e9f8
