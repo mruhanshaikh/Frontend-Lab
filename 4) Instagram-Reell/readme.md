@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Reels-Style Video Feed (Vanilla JS) 
-=======
 # Reels-Style Video Feed (Vanilla JS)
-#Live : https://reeel.netlify.app/
->>>>>>> 66c0201299d3f590f59868b94fdb3fce91d4e9f8
+## Live : https://reeel.netlify.app/
 
 A reels-style vertical video feed built using **HTML, SCSS, and Vanilla JavaScript**, focusing on real-world media handling and UI state management.
 
