@@ -1,0 +1,2 @@
+Created Nested div shaped to an scrollbar on download butoon click triggers setInterval which increase inner div width causing scrollbarlike effect simultaneously we can see the percentage of download and after certain timeout it is compleated and we can't re-download again but can view the total time it has taken which is random means different for each user considered important edge cases
+Live : https://downloadnoweffect.netlify.app/

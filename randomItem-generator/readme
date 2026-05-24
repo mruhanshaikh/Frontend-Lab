@@ -1,0 +1,2 @@
+Played with position property of css and linked it with js to create an infinity boxes of random color with dynamic texts coming from an array perfectly align withing box placed through out the window rendered on eace click but never went out of the viewport critical edge case considered
+Live AT : https://randompositionedquotes.netlify.app/

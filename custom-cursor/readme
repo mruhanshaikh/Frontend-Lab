@@ -1,0 +1,2 @@
+Created custom cursor from an png which moved throughout the screen through mousemove event which provide him x and y coordinates utilized in fixed position property to place image in center with translate no cursor on entire body and smooth movement like real cursor 
+Live at : https://move-cursor.netlify.app/

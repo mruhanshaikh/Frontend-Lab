@@ -1,0 +1,5 @@
+Built a virtual piano UI and mapped each key to its audio.
+Implemented desktop keyboard support with instant playback using preloaded sounds.
+Added mobile/touch support by linking each div to its note for responsive play.
+Optimized for overlapping notes and efficiency using a single reusable play function.
+Live Link: https://virtuallpianoo.netlify.app/

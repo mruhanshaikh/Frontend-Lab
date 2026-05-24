@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-color:black;
+    font-family: Helvetica, sans-serif;
+}
+
+main {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.bento {
+    width: 50%;
+    height: 90%;
+    background: black;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-areas:
+        "a b c d"
+        "a e e d"
+        "f e e g"
+        "f h i i";
+        gap:10px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.bento-item img{
+    width:100%;
+    height: 100%;
+    object-fit:cover;
+    object-position: center;
+    border-radius: 10px;
+}
+.bento-item{
+      border-radius: 10px;
+}
+
+#bento-item1{
+    background-color: aliceblue;
+    grid-area: a;
+}
+#bento-item2{
+    background-color: rgba(240, 248, 255, 0.813);
+    grid-area: b;
+}
+#bento-item3{
+    background-color: rgba(240, 248, 255, 0.683);
+    grid-area: c;
+}
+#bento-item4{
+    background-color: rgba(240, 248, 255, 0.493);
+    grid-area: d;
+}
+#bento-item5{
+    background-color: rgba(240, 248, 255, 0.322);
+    grid-area: e;
+}
+#bento-item6{
+    background-color: rgba(240, 248, 255, 0.279);
+    grid-area: f;
+}
+#bento-item7{
+    background-color: rgba(240, 248, 255, 0.29);
+    grid-area: g;
+}
+#bento-item8{
+    background-color: rgba(240, 248, 255, 0.164);
+    grid-area: h;
+}
+#bento-item9{
+    background-color: rgba(240, 248, 255, 0.228);
+    grid-area: i;
+}
+header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 200px;
+    align-items: flex-end;
+    margin-bottom:20px;
+}
+header h1{
+    font-size: 150px;
+    color: transparent;
+    background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGozZmRjb2Ezazk2d2xyOTFpMTA5MG95cDA1cTZiMXY2cTV4N2dpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgrXjIEaf9ZqoRG/giphy.gif);
+    background-position: center;
+    background-size: cover;
+    background-clip: text;
+    /* -webkit-text-stroke: 0.1px rgba(255, 250, 250, 0.194); */
+}
+

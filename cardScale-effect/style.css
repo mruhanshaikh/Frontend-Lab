@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    flex-direction: column;
+}
+.parent{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+.child{
+    width:200px;
+    height:200px;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+}
+.orange{
+    background-color: orange;
+}
+.white{
+    background-color:white;
+}
+.green{
+    background-color:green;
+}
+.child:hover{
+    scale:1.2 !important;
+}
+.child:active{
+    scale:1.2 !important;
+}
+.parent:has(.child:hover) .child{
+    scale:0.8;
+}
+.parent:has(.child:active) .child{
+    scale:0.8;
+}
+@media (max-width:650px) {
+    .parent{
+         flex-direction: column;
+    }
+}

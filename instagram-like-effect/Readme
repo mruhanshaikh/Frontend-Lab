@@ -1,0 +1,2 @@
+Created Like Feature were on dbl click heart icon went opwards  it's opacity reduced and finally it went out and reset to same position within aninterval Achieved By using setinterval ,timeout ,transition and position properties
+Live : https://insta-like-effects.netlify.app/ 
