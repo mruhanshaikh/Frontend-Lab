@@ -1,0 +1,16 @@
+.centernav{
+    display: flex;
+    list-style: none;
+    gap:1rem;
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+}
+.centernav li{
+    font-size:larger;
+    font-weight: normal;
+    transition: all 0.5ms linear  ;
+}
+.centernav li:hover{
+    font-weight: bold;
+}

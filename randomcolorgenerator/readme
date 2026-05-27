@@ -1,0 +1,8 @@
+# Random Color Generator
+
+A JavaScript project that dynamically generates random colors with interactive UI updates and live background changes.
+
+Live Demo: https://randomcolorrgeneratorr.netlify.app/
+
+## Tech Stack
+HTML • SCSS • JavaScript
