@@ -160,6 +160,19 @@ Pure CSS interaction — hovering a child scales it up while the parent detects 
 | 35 | Custom PNG Cursor | UI | Vanilla JS, mousemove, CSS transform | [Live ↗](https://move-cursor.netlify.app/) |
 | 36 | Dribbble-Inspired UI | UI | HTML, CSS, Flexbox, transitions | [Live ↗](https://dribbble-clonee.netlify.app/) |
 | 37 | Apple-Inspired Homepage | UI | HTML, CSS, Flexbox | [Live ↗](https://applle-clonee.netlify.app/) |
+| 38 | Business Card UI | UI | HTML, CSS | [Live ↗](https://businesscard-ui.netlify.app/) |
+| 39 | Todo List UI | UI | HTML, CSS| [Live ↗](https://todolistt-ui.netlify.app/) |
+| 40 | Blog Post UI | UI | HTML, CSS| [Live ↗](https://blogposttui.netlify.app/) |
+| 41 | Job Application Form UI | UI | HTML, CSS, pseudoStates | [Live ↗](https://jobapplicationform-ui.netlify.app/) |
+| 42 | Hero Section UI | UI | HTML, CSS, Flexbox | [Live ↗](https://herosectionn-ui.netlify.app/) |
+| 43 | BeigeSec UI | UI | HTML, CSS, Flexbox | [Live ↗](https://beigesec-ui.netlify.app/) |
+| 44 | Random Color Generator | HTML, CSS, JS | [Live ↗](https://randomcolorrgeneratorr.netlify.app/) |
+| 45 | Debounce & Throttle| UI | HTML, CSS, JS | [Live ↗](https://debouncethrootle.netlify.app/) |
+| 46 | Landing Page | UI | React, Atomic Design | [Live ↗](https://componentdesign.netlify.app/) |
+| 47 | Company Cards UI | UI | React, Props | [Live ↗](https://companycardss.netlify.app/) |
+| 48 | dynamicNames | React, useEffect | [Live ↗](https://randomnameswithoutevent.netlify.app/) |
+| 49 | Name List Manager | React, controlledForm | [Live ↗](https://reactt-formm-handlingg.netlify.app/) |
+| 50 | dynamicRouting | React, React-Router | [Live ↗](reactroutinggg.netlify.app) |
 
 ---
 
