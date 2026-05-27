@@ -1,6 +1,6 @@
 # Frontend-Lab
 
-35+ frontend projects built across CSS, Vanilla JavaScript, and React — UI experiments, CSS challenges, animation deep-dives, and real API integrations. Every project is deployed and functional.
+50+ frontend projects built across CSS, Vanilla JavaScript, and React — UI experiments, CSS challenges, animation deep-dives, and real API integrations. Every project is deployed and functional.
 
 > This is not a learning dump. Projects range from design-focused UI builds to fully interactive apps with real APIs and state management. For flagship projects see [Devpulse](https://github.com/mruhanshaikh/Devpulse) and [FocusBoard](https://github.com/mruhanshaikh/FocusBoard).
 
@@ -167,10 +167,10 @@ Pure CSS interaction — hovering a child scales it up while the parent detects 
 | 42 | Hero Section UI | UI | HTML, CSS, Flexbox | [Live ↗](https://herosectionn-ui.netlify.app/) |
 | 43 | BeigeSec UI | UI | HTML, CSS, Flexbox | [Live ↗](https://beigesec-ui.netlify.app/) |
 | 44 | Random Color Generator| App | HTML, CSS, JS | [Live ↗](https://randomcolorrgeneratorr.netlify.app/) |
-| 45 | Debounce & Throttle| App | HTML, CSS, JS | [Live ↗](https://debouncethrootle.netlify.app/) |
+| 45 | Debounce & Throttle| Learning | HTML, CSS, JS | [Live ↗](https://debouncethrootle.netlify.app/) |
 | 46 | Landing Page | UI | React, Atomic Design | [Live ↗](https://componentdesign.netlify.app/) |
 | 47 | Company Cards UI | UI | React, Props | [Live ↗](https://companycardss.netlify.app/) |
-| 48 | DynamicNames | App |React, useEffect | [Live ↗](https://randomnameswithoutevent.netlify.app/) |
+| 48 | DynamicNames | Result |React, useEffect | [Live ↗](https://randomnameswithoutevent.netlify.app/) |
 | 49 | Name List Manager | App | React, controlledForm | [Live ↗](https://reactt-formm-handlingg.netlify.app/) |
 | 50 | DynamicRouting | App | React, React-Router | [Live ↗](reactroutinggg.netlify.app) |
 
