@@ -1,4 +1,4 @@
-# GitHub User Search — GraphQL + Apollo Client
+# [GitHub User Search — GraphQL + Apollo Client](https://searchhgithub.netlify.app/)
 
 A React app that searches GitHub users using the GitHub GraphQL API and Apollo Client.
 
