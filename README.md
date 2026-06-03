@@ -112,10 +112,21 @@ CSS card using `@property` to animate a conic gradient angle — impossible with
 ### 11. Parent-Driven Hover — CSS `:has()`
 **[Live ↗](https://css-hash.netlify.app/)**
 
+
 Pure CSS interaction — hovering a child scales it up while the parent detects this and scales down all siblings. Zero JavaScript. Demonstrates modern parent-aware CSS selectors.
 
 - **Stack:** Pure CSS · `:has()` · transitions
 - **Highlight:** Parent-to-child conditional styling — previously only possible with JavaScript
+
+---
+
+### 12. GitHub User Search
+**[Live ↗](https://searchhgithub.netlify.app/)**
+
+A React app that searches GitHub users using the GitHub GraphQL API and Apollo Client..
+
+- **Stack:** React · GraphQL · ApolloClient
+- **Highlight:** Apollo Client setup with `HttpLink` and `InMemoryCache``useLazyQuery` — query runs on button click, not on mount
 
 ---
 
@@ -173,6 +184,7 @@ Pure CSS interaction — hovering a child scales it up while the parent detects 
 | 48 | DynamicNames | Result |React, useEffect | [Live ↗](https://randomnameswithoutevent.netlify.app/) |
 | 49 | ListManager | App | React, controlledForm | [Live ↗](https://reactt-formm-handlingg.netlify.app/) |
 | 50 | DynamicRouting | App | React, React-Router | [Live ↗](reactroutinggg.netlify.app) |
+| 51 | Searchhgithub | App | React, GraphQL, Aplollo-Client | [Live ↗](https://searchhgithub.netlify.app/) |
 
 ---
 
