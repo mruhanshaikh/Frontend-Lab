@@ -130,6 +130,16 @@ A React app that searches GitHub users using the GitHub GraphQL API and Apollo C
 
 ---
 
+### 13. Validate Form
+**[Live ↗](https://validateformm.netlify.app/)**
+
+A multi-field registration form built with **React Hook Form** and **Zod** for schema-based validation
+
+- **Stack:** React-Hook-Form · ZOD · Resolver 
+- **Highlight:** Demonstrating dynamic field arrays, conditional rendering, live Filtering and cross-field validation
+
+---
+
 ## 📋 All Projects
 
 | # | Project | Type | Tech | Live |
@@ -185,6 +195,7 @@ A React app that searches GitHub users using the GitHub GraphQL API and Apollo C
 | 49 | ListManager | App | React, controlledForm | [Live ↗](https://reactt-formm-handlingg.netlify.app/) |
 | 50 | DynamicRouting | App | React, React-Router | [Live ↗](reactroutinggg.netlify.app) |
 | 51 | Searchhgithub | App | React, GraphQL, Aplollo-Client | [Live ↗](https://searchhgithub.netlify.app/) |
+| 52 | ValidateForm | App | React-Hook-Form, ZOD, Resolver | [Live ↗](https://validateformm.netlify.app/) |
 
 ---
 
@@ -193,11 +204,11 @@ A React app that searches GitHub users using the GitHub GraphQL API and Apollo C
 | Category | Technologies |
 |----------|-------------|
 | Core | HTML5 · CSS3 · JavaScript (ES6+) |
-| Styling | SCSS · CSS Modules · Tailwind CSS · CSS Custom Properties · @property |
-| React | Hooks · Context API · React Router · React.memo · Lazy + Suspense |
-| State & Data | TanStack Query v5 · Axios · Fetch API · LocalStorage |
+| Styling | SCSS · CSS Modules · Tailwind CSS · CSS-in-JS · UI-Library |
+| React | Hooks · Context API · React Router · React-Hook-Form · React.memo · Lazy + Suspense |
+| State & Data & Validation | TanStack Query v5 · Zustand · ZOD · ApolloClient · Axios · Fetch API · LocalStorage |
 | Animation | Framer Motion · CSS @keyframes · Intersection Observer · useScroll |
-| APIs Used | WeatherAPI · GitHub API · News API · MockAPI · DummyJSON |
+| APIs | RESTAPI ·GraphQL · |
 | Build & Deploy | Vite · Netlify |
 
 ---
