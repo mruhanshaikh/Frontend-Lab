@@ -208,7 +208,7 @@ A multi-field registration form built with **React Hook Form** and **Zod** for s
 | React | Hooks · Context API · React Router · React-Hook-Form · React.memo · Lazy + Suspense |
 | State & Data & Validation | TanStack Query v5 · Zustand · ZOD · ApolloClient · Axios · Fetch API · LocalStorage |
 | Animation | Framer Motion · CSS @keyframes · Intersection Observer · useScroll |
-| APIs | RESTAPI ·GraphQL · |
+| APIs | RESTAPI ·GraphQL |
 | Build & Deploy | Vite · Netlify |
 
 ---
